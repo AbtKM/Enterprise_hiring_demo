@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="region" table="x_184904_enterpris_hiring_events" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region 1</label>
+            <language>en</language>
+            <name>x_184904_enterpris_hiring_events</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 17:26:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6ce973adb33030019b0d730cf9619dc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 17:32:57</sys_updated_on>
+            <value>Region 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region 2</label>
+            <language>en</language>
+            <name>x_184904_enterpris_hiring_events</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 17:26:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3ce5b7adb33030019b0d730cf9619d8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 17:33:01</sys_updated_on>
+            <value>Region 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region 3</label>
+            <language>en</language>
+            <name>x_184904_enterpris_hiring_events</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 17:26:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70de9b7adb33030019b0d730cf961905</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 17:33:05</sys_updated_on>
+            <value>Region 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region 4</label>
+            <language>en</language>
+            <name>x_184904_enterpris_hiring_events</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 17:26:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fde5b7adb33030019b0d730cf9619d8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 17:33:09</sys_updated_on>
+            <value>Region 4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region 5</label>
+            <language>en</language>
+            <name>x_184904_enterpris_hiring_events</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 17:26:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98ee9b7adb33030019b0d730cf961905</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 17:33:13</sys_updated_on>
+            <value>Region 5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region 6</label>
+            <language>en</language>
+            <name>x_184904_enterpris_hiring_events</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 17:26:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61ee9b7adb33030019b0d730cf961995</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 17:33:18</sys_updated_on>
+            <value>Region 6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region 7</label>
+            <language>en</language>
+            <name>x_184904_enterpris_hiring_events</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 17:26:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03ee973adb33030019b0d730cf9619dd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 17:33:22</sys_updated_on>
+            <value>Region 7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Region 8</label>
+            <language>en</language>
+            <name>x_184904_enterpris_hiring_events</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 17:26:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cfe9b7adb33030019b0d730cf9619a7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 17:33:26</sys_updated_on>
+            <value>Region 8</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <name>x_184904_enterpris_hiring_events</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 17:26:02</sys_created_on>
+            <sys_id>63ced77adb33030019b0d730cf9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>region</sys_name>
+            <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
+            <sys_update_name>sys_choice_x_184904_enterpris_hiring_events_region</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 17:26:02</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

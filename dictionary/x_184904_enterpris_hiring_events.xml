@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Hiring Events" max_length="40" name="x_184904_enterpris_hiring_events" type="collection">
+        <element label="End date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Event manager" max_length="32" name="event_manager" reference="sys_user" type="reference"/>
+        <element label="Name of event" max_length="40" name="name_of_event" type="string"/>
+        <element choice="1" label="Region" max_length="40" name="region" type="choice">
+            <choice>
+                <element label="Region 1" value="Region 1"/>
+                <element label="Region 2" value="Region 2"/>
+                <element label="Region 3" value="Region 3"/>
+                <element label="Region 4" value="Region 4"/>
+                <element label="Region 5" value="Region 5"/>
+                <element label="Region 6" value="Region 6"/>
+                <element label="Region 7" value="Region 7"/>
+                <element label="Region 8" value="Region 8"/>
+            </choice>
+        </element>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="Fire" sequence="10" value="Fire"/>
+                <element label="Permanent" sequence="20" value="Permanent"/>
+                <element label="Recent graduate" sequence="30" value="Recent graduate"/>
+                <element label="Temporary" sequence="40" value="Temporary"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="event_manager"/>
+        </index>
+    </element>
+</database>

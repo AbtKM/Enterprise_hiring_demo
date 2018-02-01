@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Applicants" max_length="40" name="x_184904_enterpris_applicants" type="collection">
+        <element default="40" label="Applicant ID" max_length="40" name="applicant_id" type="string"/>
+        <element choice="1" label="Duty location" max_length="40" name="duty_location" type="choice">
+            <choice>
+                <element label="Arizona" value="Region 3"/>
+                <element label="California" value="Region 5"/>
+                <element label="Colorado" value="Region 2"/>
+                <element label="Louisiana" value="Region 8"/>
+                <element label="North Dakota" value="Region 1"/>
+                <element label="Oregon" value="Region 6"/>
+                <element label="Texas" value="Region 7"/>
+                <element label="Utah" value="Region 4"/>
+            </choice>
+        </element>
+        <element default="40" label="Email" max_length="40" name="email" type="string"/>
+        <element label="First name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Last name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element default="40" label="Phone number" max_length="40" name="phone_number" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="end_date" label="End date" language="en" table="x_184904_enterpris_hiring_events">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <help/>
+            <hint/>
+            <label>End date</label>
+            <language>en</language>
+            <name>x_184904_enterpris_hiring_events</name>
+            <plural>End dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-25 17:23:23</sys_created_on>
+            <sys_id>a83e177adb33030019b0d730cf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>End date</sys_name>
+            <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
+            <sys_update_name>sys_documentation_x_184904_enterpris_hiring_events_end_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-25 17:23:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
