@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-25 17:23:23</sys_created_on>
-        <sys_id>343e177adb33030019b0d730cf9619b5</sys_id>
+        <sys_id>08a348550f401300554f85bce1050ee9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_184904_enterpris_hiring_events</sys_name>
         <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
-        <sys_update_name>ua_table_licensing_config_343e177adb33030019b0d730cf9619b5</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_08a348550f401300554f85bce1050ee9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-01-25 17:23:23</sys_updated_on>
     </ua_table_licensing_config>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="type" label="Recruitment type" language="en" table="x_184904_enterpris_hiring_events">
+    <sys_documentation element="u_end_time" label="End time" language="en" table="x_184904_enterpris_hiring_events">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>type</element>
+            <element>u_end_time</element>
             <help/>
             <hint/>
-            <label>Recruitment type</label>
+            <label>End time</label>
             <language>en</language>
             <name>x_184904_enterpris_hiring_events</name>
-            <plural>Recruitment types</plural>
+            <plural>End times</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-25 17:23:23</sys_created_on>
-            <sys_id>a03e177adb33030019b0d730cf9619ad</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Recruitment type</sys_name>
+            <sys_created_by>kathy.abt</sys_created_by>
+            <sys_created_on>2018-02-01 20:07:22</sys_created_on>
+            <sys_id>b6d644990f401300554f85bce1050e49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>End time</sys_name>
             <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
             <sys_policy/>
             <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
-            <sys_update_name>sys_documentation_x_184904_enterpris_hiring_events_type_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_184904_enterpris_hiring_events_u_end_time_en</sys_update_name>
             <sys_updated_by>kathy.abt</sys_updated_by>
             <sys_updated_on>2018-02-01 20:07:22</sys_updated_on>
             <url/>

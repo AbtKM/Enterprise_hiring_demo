@@ -17,7 +17,7 @@
             </choice>
         </element>
         <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
-        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+        <element choice="1" label="Recruitment type" max_length="40" name="type" type="choice">
             <choice>
                 <element label="Fire" sequence="10" value="Fire"/>
                 <element label="Permanent" sequence="20" value="Permanent"/>
@@ -25,6 +25,8 @@
                 <element label="Temporary" sequence="40" value="Temporary"/>
             </choice>
         </element>
+        <element label="End time" max_length="40" name="u_end_time" type="glide_time"/>
+        <element label="Start time" max_length="40" name="u_start_time" type="glide_time"/>
         <index name="index">
             <element name="event_manager"/>
         </index>
