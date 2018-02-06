@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Enterprise Hiring Tools Homepage - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="eht_index">31007fb2db73030019b0d730cf9619c1</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-06 16:46:57</sys_created_on>
+        <sys_id>80f841fadb40130019b0d730cf961946</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Enterprise Hiring Tools Homepage - Container 2</sys_name>
+        <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
+        <sys_update_name>sp_container_80f841fadb40130019b0d730cf961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-06 17:35:43</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>
