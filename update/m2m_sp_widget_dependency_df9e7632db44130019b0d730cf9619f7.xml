@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="INSERT_OR_UPDATE">
+        <sp_dependency display_value="event calendar">238ef632db44130019b0d730cf96198f</sp_dependency>
+        <sp_widget display_value="Event Calendar">c41ef232db44130019b0d730cf96194f</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-07 01:21:05</sys_created_on>
+        <sys_id>df9e7632db44130019b0d730cf9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>event calendar.Event Calendar</sys_name>
+        <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_df9e7632db44130019b0d730cf9619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-07 01:21:05</sys_updated_on>
+    </m2m_sp_widget_dependency>
+</record_update>
