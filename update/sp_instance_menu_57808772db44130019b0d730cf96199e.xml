@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6df8cdbadb40130019b0d730cf961968</sp_column>
+        <sp_widget display_value="Icon Menu List">88979930cb01020000f8d856634c9caa</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-07 01:29:33</sys_created_on>
+        <sys_id>57808772db44130019b0d730cf96199e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My Events</sys_name>
+        <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
+        <sys_update_name>sp_instance_menu_57808772db44130019b0d730cf96199e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-07 01:32:37</sys_updated_on>
+        <title>My Events</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="delete_multiple" query="documentkey=57808772db44130019b0d730cf96199e"/>
+</record_update>

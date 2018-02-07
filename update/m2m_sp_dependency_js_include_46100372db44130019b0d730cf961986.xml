@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="m2m_sp_dependency_js_include">
+    <m2m_sp_dependency_js_include action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <sp_dependency display_value="event calendar">238ef632db44130019b0d730cf96198f</sp_dependency>
+        <sp_js_include display_value="fullcalendar.min.js">0cfff272db44130019b0d730cf961954</sp_js_include>
+        <sys_class_name>m2m_sp_dependency_js_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-07 01:27:33</sys_created_on>
+        <sys_id>46100372db44130019b0d730cf961986</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>event calendar.fullcalendar.min.js</sys_name>
+        <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
+        <sys_update_name>m2m_sp_dependency_js_include_46100372db44130019b0d730cf961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-07 01:27:40</sys_updated_on>
+    </m2m_sp_dependency_js_include>
+</record_update>
