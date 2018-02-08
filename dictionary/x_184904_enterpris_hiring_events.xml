@@ -3,7 +3,7 @@
     <element label="Hiring Events" max_length="40" name="x_184904_enterpris_hiring_events" type="collection">
         <element label="End date" max_length="40" name="end_date" type="glide_date"/>
         <element label="Event manager" max_length="32" name="event_manager" reference="sys_user" type="reference"/>
-        <element label="Name of event" max_length="40" name="name_of_event" type="string"/>
+        <element display="true" label="Name of event" max_length="40" name="name_of_event" type="string"/>
         <element choice="1" label="Region" max_length="40" name="region" type="choice">
             <choice>
                 <element label="Region 1" value="Region 1"/>
