@@ -113,6 +113,20 @@
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hiring_event</element>
+            <position>8</position>
+            <sys_created_by>brian.rowland</sys_created_by>
+            <sys_created_on>2018-02-08 17:45:57</sys_created_on>
+            <sys_id>3f99ab170f001300554f85bce1050e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_184904_enterpris_vacancies" sys_domain="global" view="Default view">e8dde37edb33030019b0d730cf9619dd</sys_ui_section>
+            <sys_updated_by>brian.rowland</sys_updated_by>
+            <sys_updated_on>2018-02-08 17:45:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

@@ -3,10 +3,14 @@
     <element label="Vacancies" max_length="40" name="x_184904_enterpris_vacancies" type="collection">
         <element label="Announcement number" max_length="40" name="announcement_number" type="string"/>
         <element label="Assessment type" max_length="40" name="assessment_type" type="string"/>
+        <element label="Hiring Event" max_length="32" name="hiring_event" reference="x_184904_enterpris_hiring_events" type="reference"/>
         <element label="Hiring manager" max_length="32" name="hiring_manager" reference="sys_user" type="reference"/>
         <element label="Series &amp; Grade" max_length="40" name="series_grade" type="string"/>
         <element label="Vacancy name" max_length="40" name="vacancy_name" type="string"/>
         <index name="index">
+            <element name="hiring_event"/>
+        </index>
+        <index name="index2">
             <element name="hiring_manager"/>
         </index>
     </element>

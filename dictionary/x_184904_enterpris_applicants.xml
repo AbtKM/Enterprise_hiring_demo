@@ -18,5 +18,9 @@
         <element label="First name" mandatory="true" max_length="40" name="first_name" type="string"/>
         <element label="Last name" mandatory="true" max_length="40" name="last_name" type="string"/>
         <element default="40" label="Phone number" max_length="40" name="phone_number" type="string"/>
+        <element label="Vacancy" max_length="32" name="vacancy" reference="x_184904_enterpris_vacancies" type="reference"/>
+        <index name="index">
+            <element name="vacancy"/>
+        </index>
     </element>
 </database>
