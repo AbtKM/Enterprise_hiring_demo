@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_184904_enterpris_hiring_events" version="2" view="sys_ref_list">
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_184904_enterpris_vacancies" version="2" view="sys_ref_list">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>name_of_event</element>
-            <list_id display_value="x_184904_enterpris_hiring_events" element="NULL" name="x_184904_enterpris_hiring_events" parent="NULL" relationship="NULL" sys_domain="global" view="27d123515402030033996784fa755169">c7c58b10db50130019b0d730cf9619a1</list_id>
+            <element>vacancy_name</element>
+            <list_id display_value="x_184904_enterpris_vacancies" element="NULL" name="x_184904_enterpris_vacancies" parent="NULL" relationship="NULL" sys_domain="global" view="27d123515402030033996784fa755169">51fe765cdb10130019b0d730cf961917</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-11 17:43:23</sys_created_on>
-            <sys_id>4fc58b10db50130019b0d730cf9619a1</sys_id>
+            <sys_created_on>2018-02-11 17:13:29</sys_created_on>
+            <sys_id>9dfe765cdb10130019b0d730cf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-11 17:43:23</sys_updated_on>
+            <sys_updated_on>2018-02-11 17:13:29</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element/>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <name>x_184904_enterpris_hiring_events</name>
+            <name>x_184904_enterpris_vacancies</name>
             <parent/>
             <position/>
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-02-11 17:43:23</sys_created_on>
+            <sys_created_on>2018-02-11 17:13:29</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c7c58b10db50130019b0d730cf9619a1</sys_id>
+            <sys_id>51fe765cdb10130019b0d730cf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_184904_enterpris_hiring_events</sys_name>
+            <sys_name>x_184904_enterpris_vacancies</sys_name>
             <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
             <sys_policy/>
             <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
-            <sys_update_name>sys_ui_list_x_184904_enterpris_hiring_events_sys_ref_list</sys_update_name>
+            <sys_update_name>sys_ui_list_x_184904_enterpris_vacancies_sys_ref_list</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-11 17:43:23</sys_updated_on>
+            <sys_updated_on>2018-02-11 17:13:29</sys_updated_on>
             <sys_user/>
             <view display_value="Reference List" name="sys_ref_list">27d123515402030033996784fa755169</view>
             <view_name/>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>hiring-event</id>
+        <internal>false</internal>
+        <link/>
+        <name>Hiring Events</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-11 18:11:21</sys_created_on>
+        <sys_id>fd0c8714db50130019b0d730cf96199b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Hiring Events</sys_name>
+        <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
+        <sys_update_name>sp_widget_fd0c8714db50130019b0d730cf96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-11 18:13:37</sys_updated_on>
+        <template><![CDATA[<div>
+   <iframe src="https://dev23242.service-now.com/x_184904_enterpris_hiring_events_list.do?sysparm_userpref_module=ec3e177adb33030019b0d730cf96196e&sysparm_clear_stack=true" height="800" width="100%"></iframe>
+</div>]]></template>
+    </sp_widget>
+</record_update>

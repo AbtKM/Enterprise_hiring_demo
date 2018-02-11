@@ -52,7 +52,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-25 18:31:06</sys_created_on>
-        <sys_id>080963570f001300554f85bce1050e63</sys_id>
+        <sys_id>dfeca0f3db00130019b0d730cf9619ac</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Series &amp; Grade</sys_name>
         <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
@@ -60,7 +60,7 @@
         <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
         <sys_update_name>sys_dictionary_x_184904_enterpris_vacancies_series_grade</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-02-08 17:43:19</sys_updated_on>
+        <sys_updated_on>2018-02-09 17:18:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

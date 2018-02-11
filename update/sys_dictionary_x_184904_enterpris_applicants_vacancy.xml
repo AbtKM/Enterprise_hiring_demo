@@ -52,15 +52,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>brian.rowland</sys_created_by>
         <sys_created_on>2018-02-08 17:48:26</sys_created_on>
-        <sys_id>6b0ae3970f001300554f85bce1050e8b</sys_id>
+        <sys_id>d3eca0f3db00130019b0d730cf9619c7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Vacancy</sys_name>
         <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
         <sys_update_name>sys_dictionary_x_184904_enterpris_applicants_vacancy</sys_update_name>
-        <sys_updated_by>brian.rowland</sys_updated_by>
-        <sys_updated_on>2018-02-08 17:48:26</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-02-09 17:18:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
