@@ -15,7 +15,7 @@
         <mobile_title>Vacancies</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_184904_enterpris_vacancies</name>
-        <order/>
+        <order>300</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -28,7 +28,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f8bdab32db73030019b0d730cf9619a3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Vacancies</sys_name>
         <sys_overrides/>
         <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
@@ -36,7 +36,7 @@
         <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
         <sys_update_name>sys_app_module_f8bdab32db73030019b0d730cf9619a3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-25 18:31:06</sys_updated_on>
+        <sys_updated_on>2018-02-11 20:29:38</sys_updated_on>
         <timeline_page/>
         <title>Vacancies</title>
         <uncancelable>false</uncancelable>
