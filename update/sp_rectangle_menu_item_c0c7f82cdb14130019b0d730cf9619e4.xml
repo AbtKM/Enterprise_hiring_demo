@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph>edit</glyph>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Interview Questions</label>
+        <order>300</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page/>
+        <sp_rectangle_menu display_value="My View">57808772db44130019b0d730cf96199e</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-12 02:02:21</sys_created_on>
+        <sys_id>c0c7f82cdb14130019b0d730cf9619e4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Interview Questions</sys_name>
+        <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_c0c7f82cdb14130019b0d730cf9619e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-12 02:05:14</sys_updated_on>
+        <table/>
+        <type>url</type>
+        <url>https://dev23242.service-now.com/assessment_take2.do?sysparm_assessable_type=a076bfd8db90130019b0d730cf9619b8</url>
+        <url_target/>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0c7f82cdb14130019b0d730cf9619e4"/>
+</record_update>

@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="applicant_id" table="x_184904_enterpris_applicants">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_question6" table="x_184904_enterpris_interview_results">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Applicant ID</column_label>
+        <column_label>6.  Please provide an example of when you have worked as part of a team.</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -23,18 +18,18 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>true</display>
+        <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>applicant_id</element>
+        <element>u_question6</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
-        <name>x_184904_enterpris_applicants</name>
+        <max_length>260</max_length>
+        <name>x_184904_enterpris_interview_results</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -51,16 +46,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-25 17:03:49</sys_created_on>
-        <sys_id>5beca0f3db00130019b0d730cf9619c1</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Applicant ID</sys_name>
+        <sys_created_on>2018-02-12 01:01:58</sys_created_on>
+        <sys_id>bb2a2464db14130019b0d730cf961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6.  Please provide an example of when you have worked as part of a team.</sys_name>
         <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
-        <sys_update_name>sys_dictionary_x_184904_enterpris_applicants_applicant_id</sys_update_name>
+        <sys_update_name>sys_dictionary_x_184904_enterpris_interview_results_u_question6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-02-11 22:38:03</sys_updated_on>
+        <sys_updated_on>2018-02-12 01:01:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

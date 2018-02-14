@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="applicant_id" table="x_184904_enterpris_applicants">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="applicant_id" table="x_184904_enterpris_interview_results">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -23,7 +23,7 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>true</display>
+        <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
@@ -31,15 +31,15 @@
         <element>applicant_id</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
-        <name>x_184904_enterpris_applicants</name>
+        <max_length>32</max_length>
+        <name>x_184904_enterpris_interview_results</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="x_184904_enterpris_applicants">x_184904_enterpris_applicants</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -51,16 +51,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-25 17:03:49</sys_created_on>
-        <sys_id>5beca0f3db00130019b0d730cf9619c1</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_created_on>2018-02-12 00:52:10</sys_created_on>
+        <sys_id>357768e0db14130019b0d730cf961926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Applicant ID</sys_name>
         <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
-        <sys_update_name>sys_dictionary_x_184904_enterpris_applicants_applicant_id</sys_update_name>
+        <sys_update_name>sys_dictionary_x_184904_enterpris_interview_results_applicant_id</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-02-11 22:38:03</sys_updated_on>
+        <sys_updated_on>2018-02-12 00:52:10</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

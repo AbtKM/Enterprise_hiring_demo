@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="asmt_metric_type">
+    <asmt_metric_type action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_public>true</allow_public>
+        <allow_retake>false</allow_retake>
+        <anonymize>false</anonymize>
+        <business_rule/>
+        <condition table="asmt_metric_type">sys_id=a076bfd8db90130019b0d730cf9619b8^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="a076bfd8db90130019b0d730cf9619b8"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <default_filter/>
+        <delete_business_rule/>
+        <description>Interview Results</description>
+        <disable_ui_action/>
+        <display_all_filters>false</display_all_filters>
+        <display_field>name</display_field>
+        <duration>1970-01-15 00:00:00</duration>
+        <enable_ui_action/>
+        <end_note/>
+        <enforce_condition>false</enforce_condition>
+        <evaluation_method>survey</evaluation_method>
+        <filter_condition/>
+        <filter_table/>
+        <introduction><![CDATA[<p style="text-align: center;"><span style="font-size: 24pt; color: #008000;"><strong>USDA Forest Service</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 18pt; color: #008000;"><strong>Interview Questions</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 24pt;"><strong><img style="align: baseline;" title="" src="forest_service_logo.pngx" alt="" width="100" height="100" align="baseline" border="" hspace="" vspace="" /></strong></span> </p>
+<p style="text-align: left;"> </p>
+<p style="text-align: left;"> </p>]]></introduction>
+        <job/>
+        <live_feed>false</live_feed>
+        <name>Interview Results</name>
+        <notify_if_overdue>false</notify_if_overdue>
+        <notify_user>true</notify_user>
+        <overdue_notify_user/>
+        <portal_pagination>category</portal_pagination>
+        <publish_state>published</publish_state>
+        <roles>survey_admin,survey_reader</roles>
+        <scale_factor>10</scale_factor>
+        <schedule_period>0</schedule_period>
+        <schedule_type>on_demand</schedule_type>
+        <scoring_type>percent</scoring_type>
+        <signature/>
+        <sys_class_name>asmt_metric_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-11 21:16:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a076bfd8db90130019b0d730cf9619b8</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Interview Results</sys_name>
+        <sys_package display_value="Enterprise Hiring Tools" source="x_184904_enterpris">d738d336db33030019b0d730cf96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Hiring Tools">d738d336db33030019b0d730cf96190a</sys_scope>
+        <sys_update_name>asmt_metric_type_a076bfd8db90130019b0d730cf9619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-12 02:03:48</sys_updated_on>
+        <table>asmt_metric_type</table>
+        <url/>
+    </asmt_metric_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=a076bfd8db90130019b0d730cf9619b8"/>
+</record_update>
